@@ -1,0 +1,7 @@
+.formatstyle {
+    text-align: center;
+}
+
+.Name, .School, .Total, .Score {
+    margin: 10px;
+}
